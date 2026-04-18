@@ -1,4 +1,4 @@
-# MeldFormer: Improving Video Spatio-Temporal Prediction via Compressing and Melding Tokens
+# Beyond RNNs and CNNs: A Unified Transformer for Spatiotemporal Prediction
 
 ## Installation
 
